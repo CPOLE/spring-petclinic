@@ -40,6 +40,6 @@ Christopher Pole, ID# 1941713
 
 
 
-https://github.com/CPOLE/spring-petclinic
+https://github.com/CPOLE/spring-petclinic/tree/CPOLE
 
 https://travis-ci.com/github/CPOLE/spring-petclinic/branches
